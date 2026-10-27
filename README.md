@@ -7,15 +7,15 @@ Daily practice toward becoming a stronger backend software engineer. Mostly C#, 
 <!-- STATS:START -->
 <p align="center"><img src="assets/progress.svg" alt="Activity over the last 26 weeks"></p>
 
-> **The streak reset, the skills didn't. Solve one today and start a new run.**
+> **1 in a row. Consistency is built exactly like this.**
 
 | Current streak | Longest streak | Solutions | Active days |
 |:-:|:-:|:-:|:-:|
-| **0** days | **4** days | **8** | **4** |
+| **1** days | **4** days | **10** | **5** |
 
 | Category | Solved | |
 |---|--:|---|
-| Algorithms | 1 | `██░░░░░░░░` |
+| Algorithms | 3 | `██████░░░░` |
 | SQL | 5 | `██████████` |
 | Concurrency & LLD | 1 | `██░░░░░░░░` |
 | Builds | 1 | `██░░░░░░░░` |
