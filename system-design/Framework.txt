@@ -1,24 +1,22 @@
 SDI is an open-ended convo, and i am expected to lead it.
 
-step 1: Outline use cases, constraints, and assumptions
-step 2: Create a high level design
-step 3: Design the core components
-step 4: Scale the design
-
 Framework:
-    1.Requirements
-    2.Scale Estimate
-    3.API
-    4.Data Model
-    -------------------step 1
-    5.High-Level design
-    -------------------step 2
-    6.Deep dive
-    -------------------step 3
-    7.Trade-offs 
-    -------------------step 4
+    step 1: Outline use cases, constraints, and assumptions
+    step 2: Create a high level design
+    step 3: Design the core components
+    step 4: Scale the design
+
+Details:
+    1.Requirements (step 1)
+    2.Scale Estimate (back-of-the-envelop calculations)
+    3.API (components based on requirements)
+    4.Data Model (tables)
+    5.High-Level design 
+    6.Deep dive (implementations)
+    7.Trade-offs (shrading, caching, load-balancer)
 
 Back-of-the-envelop calculations:
+
     Latency Comparison Numbers
     --------------------------
     L1 cache reference                           0.5 ns
