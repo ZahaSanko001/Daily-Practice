@@ -11,11 +11,11 @@ Daily practice toward becoming a stronger backend software engineer. Mostly C#, 
 
 | Current streak | Longest streak | Solutions | Active days |
 |:-:|:-:|:-:|:-:|
-| **7** days | **7** days | **17** | **11** |
+| **7** days | **7** days | **18** | **11** |
 
 | Category | Solved | |
 |---|--:|---|
-| Algorithms | 4 | `██████░░░░` |
+| Algorithms | 5 | `███████░░░` |
 | SQL | 7 | `██████████` |
 | Concurrency & LLD | 2 | `███░░░░░░░` |
 | Builds | 2 | `███░░░░░░░` |
