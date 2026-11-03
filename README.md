@@ -7,15 +7,15 @@ Daily practice toward becoming a stronger backend software engineer. Mostly C#, 
 <!-- STATS:START -->
 <p align="center"><img src="assets/progress.svg" alt="Activity over the last 26 weeks"></p>
 
-> **7-day streak is on the line. One solution keeps it alive.**
+> **8 days straight. You are becoming the engineer who shows up.**
 
 | Current streak | Longest streak | Solutions | Active days |
 |:-:|:-:|:-:|:-:|
-| **7** days | **7** days | **18** | **11** |
+| **8** days | **8** days | **19** | **12** |
 
 | Category | Solved | |
 |---|--:|---|
-| Algorithms | 5 | `███████░░░` |
+| Algorithms | 6 | `█████████░` |
 | SQL | 7 | `██████████` |
 | Concurrency & LLD | 2 | `███░░░░░░░` |
 | Builds | 2 | `███░░░░░░░` |
