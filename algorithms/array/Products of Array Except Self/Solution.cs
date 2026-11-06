@@ -31,3 +31,4 @@ public class Solution {
 }
 
 // O(n)
+// suffix prefix solution
