@@ -7,11 +7,11 @@ Daily practice toward becoming a stronger backend software engineer. Mostly C#, 
 <!-- STATS:START -->
 <p align="center"><img src="assets/progress.svg" alt="Activity over the last 26 weeks"></p>
 
-> **31-day streak is on the line. One solution keeps it alive.**
+> **32 days straight. This is no longer motivation, it's who you are.**
 
 | Current streak | Longest streak | Solutions | Active days |
 |:-:|:-:|:-:|:-:|
-| **31** days | **31** days | **44** | **35** |
+| **32** days | **32** days | **44** | **36** |
 
 | Category | Solved | |
 |---|--:|---|
